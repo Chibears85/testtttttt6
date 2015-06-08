@@ -1,0 +1,160 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "tweakdeveloper@gmail.com",
+    "longName": "TVWatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/perfect-dos-vga (2).ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "type": "font"
+            },
+            {
+                "file": "images/lnwsm.png",
+                "name": "IMAGE_LNWSM",
+                "type": "png"
+            },
+            {
+                "file": "images/newTTS.png",
+                "name": "IMAGE_TTS",
+                "type": "png"
+            },
+            {
+                "file": "images/num_9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/num_7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/num_8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/num_6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/num_5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/num_4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/num_3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/num_2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/num_1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/num_0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon_91w.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/NBC.png",
+                "name": "IMAGE_NBC",
+                "type": "png"
+            },
+            {
+                "file": "images/EToday.png",
+                "name": "IMAGE_ETODAY",
+                "type": "png"
+            },
+            {
+                "file": "images/Bears.png",
+                "name": "IMAGE_BEARS",
+                "type": "png"
+            },
+            {
+                "file": "images/time_format_PM.png",
+                "name": "IMAGE_PM_MODE",
+                "type": "png"
+            },
+            {
+                "file": "images/9newsmornings.png",
+                "name": "IMAGE_9NEWSMORN",
+                "type": "png"
+            },
+            {
+                "file": "images/WTC.png",
+                "name": "IMAGE_WTC",
+                "type": "png"
+            },
+            {
+                "file": "images/9newsat4.png",
+                "name": "IMAGE_9NEWS4",
+                "type": "png"
+            },
+            {
+                "file": "images/9newsat5.png",
+                "name": "IMAGE_9NEWS5",
+                "type": "png"
+            },
+            {
+                "file": "images/9newsat6.png",
+                "name": "IMAGE_9NEWS6",
+                "type": "png"
+            },
+            {
+                "file": "images/9newsat9.png",
+                "name": "IMAGE_9NEWS9",
+                "type": "png"
+            },
+            {
+                "file": "images/9newsat10.png",
+                "name": "IMAGE_9NEWS10",
+                "type": "png"
+            },
+            {
+                "file": "images/NN530.png",
+                "name": "IMAGE_NN",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TVWatch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "42217a82-f96d-4aba-a862-8098a9a4a904",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
