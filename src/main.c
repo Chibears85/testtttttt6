@@ -44,6 +44,7 @@ static void update_time() {
   if(clock_is_24h_style() == true) {
   }
   uint8_t display_hour = get_display_hour(current_time->tm_hour);
+  gbitmap_destroy(s_time_bitmap[0]);
   gbitmap_destroy(s_time_bitmap[1]);
   gbitmap_destroy(s_time_bitmap[2]);
   gbitmap_destroy(s_time_bitmap[3]);
