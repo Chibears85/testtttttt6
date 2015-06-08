@@ -10,7 +10,7 @@
         "media": [
             {
                 "file": "fonts/perfect-dos-vga (2).ttf",
-                "name": "FONT_PERFECT_DOS_48",
+                "name": "FONT_PERFECT_DOS_28",
                 "type": "font"
             },
             {
@@ -21,56 +21,6 @@
             {
                 "file": "images/newTTS.png",
                 "name": "IMAGE_TTS",
-                "type": "png"
-            },
-            {
-                "file": "images/num_9.png",
-                "name": "IMAGE_NUM_9",
-                "type": "png"
-            },
-            {
-                "file": "images/num_7.png",
-                "name": "IMAGE_NUM_7",
-                "type": "png"
-            },
-            {
-                "file": "images/num_8.png",
-                "name": "IMAGE_NUM_8",
-                "type": "png"
-            },
-            {
-                "file": "images/num_6.png",
-                "name": "IMAGE_NUM_6",
-                "type": "png"
-            },
-            {
-                "file": "images/num_5.png",
-                "name": "IMAGE_NUM_5",
-                "type": "png"
-            },
-            {
-                "file": "images/num_4.png",
-                "name": "IMAGE_NUM_4",
-                "type": "png"
-            },
-            {
-                "file": "images/num_3.png",
-                "name": "IMAGE_NUM_3",
-                "type": "png"
-            },
-            {
-                "file": "images/num_2.png",
-                "name": "IMAGE_NUM_2",
-                "type": "png"
-            },
-            {
-                "file": "images/num_1.png",
-                "name": "IMAGE_NUM_1",
-                "type": "png"
-            },
-            {
-                "file": "images/num_0.png",
-                "name": "IMAGE_NUM_0",
                 "type": "png"
             },
             {
